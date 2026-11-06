@@ -12,7 +12,7 @@ export default function Hero() {
   return (
     <section id="home" className="py-4 sm:py-5">
       <div className="mx-auto max-w-7xl px-4 sm:px-5">
-        <div className="glass-panel relative overflow-hidden rounded-[1.75rem] p-5 sm:rounded-[2rem] sm:p-10 md:p-14">
+        <div className="glass-panel relative overflow-hidden rounded-[1.75rem] p-5 sm:rounded-[2rem] sm:p-10 md:p-10">
           <div className="pointer-events-none absolute -right-24 -top-24 h-72 w-72 rounded-full bg-plum/25 blur-3xl" aria-hidden="true" />
           <div className="relative grid items-center gap-10 lg:grid-cols-[1.15fr_.85fr]">
             <div>

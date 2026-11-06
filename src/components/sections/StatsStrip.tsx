@@ -4,7 +4,7 @@ import { JOBS, PROJECTS } from "@/data";
 
 // Only facts derived from real data: years of experience, number of featured projects and employers listed on this site.
 const STATS = [
-  { icon: CalendarDays, value: "6+", label: "Years of Experience" },
+  { icon: CalendarDays, value: "7+", label: "Years of Experience" },
   { icon: FolderGit2, value: String(PROJECTS.length), label: "Featured Projects" },
   { icon: Building2, value: String(JOBS.length), label: "Companies Worked With" },
   { icon: Layers, value: "Full-Stack + AI", label: "Engineering Focus" },

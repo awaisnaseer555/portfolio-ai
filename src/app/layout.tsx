@@ -6,7 +6,7 @@ import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import BackgroundCanvas from "@/components/ui/BackgroundCanvas";
 import WhatsAppButton from "@/components/ui/WhatsAppButton";
-import { Analytics } from "@vercel/analytics/next";
+// import { Analytics } from "@vercel/analytics/next";
 
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter", display: "swap" });

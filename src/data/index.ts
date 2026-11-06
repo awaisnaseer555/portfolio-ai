@@ -39,7 +39,7 @@ export const PROJECTS: Project[] = [
 ];
 
 export const JOBS: Job[] = [
-  { company: "Webmax Solutions", role: "Senior Full-Stack Engineer", period: "December 2025 – Present", points: ["Technical ownership of full-stack web and SaaS delivery.", "Architecture and API design with modern React/Next.js and Node.js stacks."] },
+  { company: "Webmax Solutions", role: "Senior Full-Stack & AI Engineer", period: "December 2025 – Present", points: ["Technical ownership of full-stack web and SaaS delivery.", "Architecture and API design with modern React/Next.js and Node.js stacks."] },
   { company: "Devbox", role: "Senior Software Engineer", period: "October 2024 – November 2025", points: ["Built APIs and front-ends for web applications.", "Applied AI-assisted development to speed up delivery."] },
   { company: "TEO International", role: "Associate Principal Software Engineer", period: "September 2022 – August 2024", points: ["Led development teams, code reviews and architecture decisions.", "Delivered complex enterprise workflows."] },
   { company: "TeReSol Pvt. Ltd.", role: "Senior Software Design Engineer", period: "December 2020 – August 2022", points: ["Designed and developed front-end and back-end features.", "Focused on performance and maintainability."] },

@@ -1,6 +1,6 @@
 import type { ChatMessage, ChatProvider } from "./chat";
 const RULES: [RegExp, string, boolean?][] = [
-  [/experience|background/, "I have 6+ years of professional experience, most recently as Senior Full-Stack Engineer at Webmax Solutions, after roles at Devbox, TEO International, TeReSol and Uforia Infotech."],
+  [/experience|background/, "I have 7+ years of professional experience, most recently as Senior Full-Stack & AI Engineer at Webmax Solutions, after roles at Devbox, TEO International, TeReSol and Uforia Infotech."],
   [/tech|stack|skill/, "React, Next.js, TypeScript, Node.js, NestJS, Python/FastAPI, MongoDB, MySQL, plus CI/CD with GitHub Actions and Azure DevOps."],
   [/saas|build/, "Yes. I can take a SaaS product from architecture through development to deployment."],
   [/\bai\b|genai|llm/, "I work on LLM integrations, AI workflows and Python/FastAPI AI backends, and use AI-assisted tools like Claude Code and Cursor day to day."],
