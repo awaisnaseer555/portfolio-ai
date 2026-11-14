@@ -11,7 +11,7 @@ export const SERVICES: Service[] = [
   { icon: Blocks, title: "Application Modernization", description: "Refactoring legacy systems and improving architecture, performance and maintainability." },
 ];
 
-const imgs = (slug: string, count = 3) => Array.from({ length: count }, (_, i) => `/projects/${slug}-${i + 1}.svg`);
+const imgs = (slug: string, count = 3) => Array.from({ length: count }, (_, i) => `/projects/${slug}-${i + 1}.png`);
 // To use your own files, list them explicitly instead, e.g. images: ["/projects/my-app-1.png", "/projects/my-app-2.png"]
 export const PROJECTS: Project[] = [
   { slug: "royal-hawks-estate", name: "Royal Hawks Estate", kind: "personal", live: "https://royalhawksestate.com",
